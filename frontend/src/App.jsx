@@ -3,6 +3,7 @@ import Editor from "@monaco-editor/react";
 import { motion } from "framer-motion";
 import { FaCopy } from "react-icons/fa";
 
+
 function App() {
   const [code, setCode] = useState("a=10\nb=0\nprint(a/b)");
   const [result, setResult] = useState(null);
