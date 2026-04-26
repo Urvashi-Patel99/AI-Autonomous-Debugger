@@ -313,7 +313,7 @@ print(a/b)
 
 ## 👨‍💻 Author
 
-Final Year B.Tech CSE Project
+Urvashi
 AI Autonomous Debugger
 
 ---
